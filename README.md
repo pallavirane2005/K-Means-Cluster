@@ -1,5 +1,4 @@
 # 🎯 K-Means Customer Segmentation
-**Task 02 | Infotech Internship**
 
 An interactive machine learning web application that uses **K-Means Clustering** to segment retail customers based on their purchasing behavior. Built with a premium dark UI using Streamlit.
 
